@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lohuza
-- 👀 I’m interested in golang/node.js
+- 👀 I’m interested in golang/Rust and blockchain
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on any interesting project mostly written on golang
+- 💞️ I’m looking to collaborate on any interesting project written on golang or Rust
 - 📫 How to reach me github or linkeding https://www.linkedin.com/in/lasha-abazashvili/
 
 <!---
